@@ -5,11 +5,12 @@
 
 Libraries:
 
+```
 os              -- sudo pip install os
 requests        -- sudo pip install requests
 re              -- sudo pip install re
 BeautifulSoup   -- sudo pip install beautifulsoup4
-
+```
 
 ### To create the databaseset, is used the code provided in:
 
@@ -31,8 +32,10 @@ patent (in "abstract/") in .txt format and the title of the document (in "title/
 5. Removal of repeated files between documents in subgroups 43 47 52 and 56, removal of files with duplicate content and pre-processing of documents (organize_base.py)
 
 Command to list duplicate files on linux
-find . -type f -exec md5sum '{}' ';' | sort | uniq --all-repeated=separate -w 20 > ../duplicate_files.txt
 
+```
+find . -type f -exec md5sum '{}' ';' | sort | uniq --all-repeated=separate -w 20 > ../duplicate_files.txt
+```
 
 In the folder, hybrid-text-summarization/src/create_database_train_valid/IDs/, you will find the IDs of all groups in which documents were collected.
 
@@ -81,9 +84,9 @@ The performance of different State-of-the-art algorithms in task of text summari
 
 - Pegasus:
 
-Paper: [https://arxiv.org/pdf/1912.08777.pdf](https://arxiv.org/pdf/1912.08777.pdf)
+    Paper: [https://arxiv.org/pdf/1912.08777.pdf](https://arxiv.org/pdf/1912.08777.pdf)
 
-Github: [https://github.com/google-research/pegasus](https://github.com/google-research/pegasus)
+    Github: [https://github.com/google-research/pegasus](https://github.com/google-research/pegasus)
 
 
 - R-Drop:
