@@ -106,7 +106,7 @@ To validate the results obtained, the ROUGE set of metrics and the NUBIA metric 
 
   Paper: [http://research.nii.ac.jp/ntcir/ntcir-ws4/NTCIR4-WN/OPEN/OPENSUB_Chin-Yew_Lin.pdf](http://research.nii.ac.jp/ntcir/ntcir-ws4/NTCIR4-WN/OPEN/OPENSUB_Chin-Yew_Lin.pdf)
 
-- 2. NUBIA
+- NUBIA
 
   Paper: [https://arxiv.org/pdf/2004.14667.pdf](https://arxiv.org/pdf/2004.14667.pdf)
 
