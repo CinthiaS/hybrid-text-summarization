@@ -40,10 +40,9 @@ In the folder, hybrid-text-summarization/src/create_database_train_valid/IDs/, y
 
 hybrid-text-summarization/notebooks/hybrid_text_summarization.ipynb
 
-
 ## Baselines
 
-Foram avaliadas a performance de diferentes algoritmos do State-of-the-art em sumarização de documentos no conjunto de dados criados
+The performance of different State-of-the-art algorithms in task of text summarization was evaluated.
 
 ### Extractive Methods
 
