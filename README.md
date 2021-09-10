@@ -3,15 +3,6 @@
 
 ## Dataset Creation
 
-Libraries:
-
-```
-os              -- sudo pip install os
-requests        -- sudo pip install requests
-re              -- sudo pip install re
-BeautifulSoup   -- sudo pip install beautifulsoup4
-```
-
 ### To create the databaseset, is used the code provided in:
 
 hybrid-text-summarization/src/create_database_train_valid
