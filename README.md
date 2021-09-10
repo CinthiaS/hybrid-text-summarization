@@ -24,7 +24,7 @@ The code was divided into five steps:
 2. Extraction of patent links from the USPTO page; (LinksExtract.py)
 3. Download the content of the links; (LinksDownload.py)
 
-** At the end of this step, there are files organized in two folders "summary/" "title/" each of the folders
+At the end of this step, there are files organized in two folders "summary/" "title/" each of the folders
 have subfolders with the name of the document class, where in these folders they have the document summary of
 patent (in "abstract/") in .txt format and the title of the document (in "title/") in .txt format.
 
@@ -43,11 +43,9 @@ In the folder, hybrid-text-summarization/src/create_database_train_valid/IDs/, y
 
 hybrid-text-summarization/notebooks/hybrid_text_summarization.ipynb
 
-## Baselines
+## SOTA Models
 
 The performance of different State-of-the-art algorithms in task of text summarization was evaluated.
-
-### Extractive Methods
 
 - Sumbasic: 
     Paper: [https://doi.org/10.1016/j.ipm.2007.01.023](https://doi.org/10.1016/j.ipm.2007.01.023)
@@ -77,11 +75,9 @@ The performance of different State-of-the-art algorithms in task of text summari
     Our adaptation: [https://github.com/CinthiaS/hybrid-text-summarization/blob/main/notebooks/BertSumm.ipynb](https://github.com/CinthiaS/hybrid-text-summarization/blob/main/notebooks/BertSumm.ipynb)
   
 
-### Abstractive Methods
-
 - Seq2Seq LSTM: 
 
-Paper: [https://link.springer.com/article/10.1007/s11192-020-03732-x](https://link.springer.com/article/10.1007/s11192-020-03732-x)
+    Paper: [https://link.springer.com/article/10.1007/s11192-020-03732-x](https://link.springer.com/article/10.1007/s11192-020-03732-x)
 
 - BigBird-Pegasus: 
 
