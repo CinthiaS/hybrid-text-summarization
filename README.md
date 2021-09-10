@@ -68,7 +68,7 @@ The performance of different State-of-the-art algorithms in task of text summari
 
     Our adaptation [https://github.com/CinthiaS/hybrid-text-summarization/blob/main/notebooks/BertSumm.ipynb](https://github.com/CinthiaS/hybrid-text-summarization/blob/main/notebooks/BertSumm.ipynb)
     
-- BERTSum: 
+- PreSumm: 
 
     Paper: [https://arxiv.org/abs/1908.08345](https://arxiv.org/abs/1908.08345)
 
@@ -76,30 +76,19 @@ The performance of different State-of-the-art algorithms in task of text summari
 
     Our adaptation: [https://github.com/CinthiaS/hybrid-text-summarization/blob/main/notebooks/BertSumm.ipynb](https://github.com/CinthiaS/hybrid-text-summarization/blob/main/notebooks/BertSumm.ipynb)
   
-- BigBird-Pegasus: 
-
-    Paper: [https://proceedings.neurips.cc//paper/2020/file/c8512d142a2d849725f31a9a7a361ab9-Paper.pdf](https://proceedings.neurips.cc//paper/2020/file/c8512d142a2d849725f31a9a7a361ab9-Paper.pdf)
-
-    Github: [https://github.com/google-research/bigbird](https://github.com/google-research/bigbird)
-
-- Pegasus:
-
-    Paper: [https://arxiv.org/pdf/1912.08777.pdf](https://arxiv.org/pdf/1912.08777.pdf)
-
-    Github: [https://github.com/google-research/pegasus](https://github.com/google-research/pegasus)
-
-
-- R-Drop:
-
-  Github: [https://github.com/dropreg/R-Drop](https://github.com/dropreg/R-Drop)
-
-  Paper: [https://arxiv.org/pdf/2106.14448.pdf](https://arxiv.org/pdf/2106.14448.pdf)
 
 ### Abstractive Methods
 
 - Seq2Seq LSTM: 
 
 Paper: [https://link.springer.com/article/10.1007/s11192-020-03732-x](https://link.springer.com/article/10.1007/s11192-020-03732-x)
+
+- BigBird-Pegasus: 
+
+    Paper: [https://proceedings.neurips.cc//paper/2020/file/c8512d142a2d849725f31a9a7a361ab9-Paper.pdf](https://proceedings.neurips.cc//paper/2020/file/c8512d142a2d849725f31a9a7a361ab9-Paper.pdf)
+
+    Github: [https://github.com/google-research/bigbird](https://github.com/google-research/bigbird)
+
 
 ## Validation
 
