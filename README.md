@@ -5,7 +5,9 @@
 
 ### To create the databaseset, is used the code provided in:
 
+---
 hybrid-text-summarization/src/create_database_train_valid
+---
 
 This code was implemented to automatically download patents from the USPTO database.
 
@@ -64,11 +66,6 @@ The performance of different State-of-the-art algorithms in task of text summari
     Github: [https://github.com/nlpyang/PreSumm](https://github.com/nlpyang/PreSumm)
 
     Our adaptation: [https://github.com/CinthiaS/hybrid-text-summarization/blob/main/notebooks/berts_cnn_patents.ipynb](https://github.com/CinthiaS/hybrid-text-summarization/blob/main/notebooks/berts_cnn_patents.ipynb)
-  
-
-- Seq2Seq LSTM: 
-
-    Paper: [https://link.springer.com/article/10.1007/s11192-020-03732-x](https://link.springer.com/article/10.1007/s11192-020-03732-x)
 
 - BigBird-Pegasus: 
 
