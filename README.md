@@ -75,11 +75,12 @@ The performance of different State-of-the-art algorithms in task of text summari
     Paper: [https://proceedings.neurips.cc//paper/2020/file/c8512d142a2d849725f31a9a7a361ab9-Paper.pdf](https://proceedings.neurips.cc//paper/2020/file/c8512d142a2d849725f31a9a7a361ab9-Paper.pdf)
 
     Github: [https://github.com/google-research/bigbird](https://github.com/google-research/bigbird)
-
+    
+    Our adaptation: [https://github.com/CinthiaS/hybrid-text-summarization/blob/main/notebooks/bigbird-pegasus-summarization.ipynb](https://github.com/CinthiaS/hybrid-text-summarization/blob/main/notebooks/bigbird-pegasus-summarization.ipynb)
 
 ## Validation
 
-To validate the results obtained, the ROUGE set of metrics and the NUBIA metric were used.
+To validate the results obtained, the ROUGE metrics and the NUBIA metric were used.
 
 - ROUGEs
 
