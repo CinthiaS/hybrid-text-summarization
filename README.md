@@ -5,9 +5,9 @@
 
 ### To create the databaseset, is used the code provided in:
 
----
+```
 hybrid-text-summarization/src/create_database_train_valid
----
+```
 
 This code was implemented to automatically download patents from the USPTO database.
 
