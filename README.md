@@ -65,7 +65,7 @@ The performance of different State-of-the-art algorithms in task of text summari
 
     Github: [https://github.com/nlpyang/PreSumm](https://github.com/nlpyang/PreSumm)
 
-    Our adaptation: [https://github.com/CinthiaS/hybrid-text-summarization/blob/main/notebooks/berts_cnn_patents.ipynb](https://github.com/CinthiaS/hybrid-text-summarization/blob/main/notebooks/berts_cnn_patents.ipynb)
+    Our adaptation: [https://github.com/CinthiaS/hybrid-text-summarization/blob/main/notebooks/presumm.ipynb](https://github.com/CinthiaS/hybrid-text-summarization/blob/main/notebooks/presumm.ipynb)
 
 - BigBird-Pegasus: 
 
