@@ -75,6 +75,12 @@ The performance of different State-of-the-art algorithms in task of text summari
     
     Our adaptation: [https://github.com/CinthiaS/hybrid-text-summarization/blob/main/notebooks/bigbird-pegasus-summarization.ipynb](https://github.com/CinthiaS/hybrid-text-summarization/blob/main/notebooks/bigbird-pegasus-summarization.ipynb)
 
+
+- Seq2Seq + LSTM: 
+
+    Paper: [https://link.springer.com/article/10.1007/s11192-020-03732-x](https://link.springer.com/article/10.1007/s11192-020-03732-x)
+
+
 ## Validation
 
 To validate the results obtained, the ROUGE metrics and the NUBIA metric were used.
